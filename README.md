@@ -1,1 +1,2 @@
 # online-js-textEditor
+This is a web-based text editor designed for ease of use and efficiency. It allows users to create, edit, and manage text files directly from their browsers. The editor includes features like syntax highlighting, code completion, error reporting and diagnostics and customizable themes to enhance the user experience. The project is focused on providing a simple yet powerful tool for text editing tasks, making it ideal for developers,and anyone needing a lightweight online text editor.
